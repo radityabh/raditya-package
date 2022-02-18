@@ -1,0 +1,7 @@
+--- a/Makefile
++++ b/Makefile
+@@ -58,3 +58,3 @@ CONFIG_AP_WOWLAN = n
+ ###################### Platform Related #######################
+-CONFIG_PLATFORM_I386_PC = y
++CONFIG_PLATFORM_I386_PC = n
+ CONFIG_PLATFORM_FS_MX61 = n
